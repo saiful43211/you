@@ -1,0 +1,154 @@
+section{
+	background-color: black;
+	
+	height: 100%;
+	margin: 0 auto;
+	width: 90%;
+
+}
+header{
+	background-color: green;
+	height: 125px;
+	width: 100%;
+
+}
+.logo{
+	background-color: white;
+
+	margin: .8%;
+	height: 90px;
+	width: 23%;
+	float: left;
+}
+.banner{
+	background-color: black;
+	width:47%;
+	height:105px;
+	float: left;
+	margin: .8%;
+	margin-left:2%;
+
+
+
+
+}
+.logo1{
+	background-color: white;
+
+	margin: .8%;
+	height: 85px;
+	width: 23%;
+	float: right;
+}
+.main_body{
+	background-color: red;
+	height: 400px;
+	width: 100%;
+
+
+}
+
+.side{
+	width: 32.5%;
+	height: 380px;
+	background-color: yellow;
+	float: left;
+	margin: .8%;
+
+}
+.bangla{
+	height: 42%;
+	width: 90%;
+	margin: 5%;
+	background-color: white;
+	
+
+}
+.english{
+	height: 130px;
+	width: 90%;
+	margin: 5%;
+	background-color:white;
+
+
+
+}
+.side1{
+	width: 32.5%;
+	height: 380px;
+	background-color: blue;
+	float: left;
+	margin: .8%;
+}
+
+.home{
+	height: 120px;
+	width: 80%;
+	margin-left: 10%;
+	background-color: white;
+
+}
+.home1{
+	height: 175px;
+	width: 90%;
+	margin: 5%;
+	background-color: white;
+
+}
+.side2{
+	height: 380px;
+	width: 30%;
+	background-color: gray;
+	float: right;
+	margin: .8%;
+
+	
+
+}
+.bangla1{
+	height: 160px;
+	width: 90%;
+	margin: 5%;
+	background-color: white;
+	
+
+}
+.english1{
+	height: 131px;
+	width: 90%;
+	margin: 5%;
+	background-color:white;
+
+
+
+}
+footer{
+	background-color: green;
+	height: 125px;
+	width: 100%;
+
+}
+.address{
+	height:40px;
+	width: 48%;
+	float: left;
+	background-color: grey;
+	margin:1%;
+
+
+
+}
+.address1{
+	height:40px;
+	width: 48%;
+	float: left;
+	background-color: yellow;
+	margin: 1%;
+}
+.address2{
+	height:50px;
+	width: 52%;
+	float: left;
+	background-color: darkblue;
+	margin-left: 30%;
+}
